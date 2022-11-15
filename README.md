@@ -1,0 +1,1 @@
+* `winget import -i [Student.json|Personal.json] --accept-package-agreements --accept-source-agreements`
