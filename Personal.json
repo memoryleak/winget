@@ -10,6 +10,12 @@
 					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
 				},
 				{
+					"PackageIdentifier": "Jabra.Direct"
+				},
+				{
+					"PackageIdentifier": "Bitwarden.Bitwarden"
+				},
+				{
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
