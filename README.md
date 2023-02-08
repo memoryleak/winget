@@ -1,4 +1,31 @@
-* `winget import -i [Student.json|Personal.json] --accept-package-agreements --accept-source-agreements --exact`
+## Packages
+    winget install -e --accept-package-agreements --accept-source-agreements "7zip.7zip"
+    winget install -e --accept-package-agreements --accept-source-agreements "9WZDNCRFHWLH"
+    winget install -e --accept-package-agreements --accept-source-agreements "DigitalScholar.Zotero"
+    winget install -e --accept-package-agreements --accept-source-agreements "Discord.Discord"
+    winget install -e --accept-package-agreements --accept-source-agreements "Docker.DockerDesktop"
+    winget install -e --accept-package-agreements --accept-source-agreements "File-New-Project.EarTrumpet"
+    winget install -e --accept-package-agreements --accept-source-agreements "Foxit.FoxitReader"
+    winget install -e --accept-package-agreements --accept-source-agreements "Git.Git"
+    winget install -e --accept-package-agreements --accept-source-agreements "Jabra.Direct"
+    winget install -e --accept-package-agreements --accept-source-agreements "JetBrains.Toolbox"
+    winget install -e --accept-package-agreements --accept-source-agreements "JGraph.Draw"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.Office"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.OneDrive"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.PowerShell"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.PowerToys"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.Teams"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.VisualStudio.2022.Community"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.VisualStudioCode"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.WindowsTerminal"
+    winget install -e --accept-package-agreements --accept-source-agreements "Microsoft.XMLNotepad"
+    winget install -e --accept-package-agreements --accept-source-agreements "Mozilla.Firefox"
+    winget install -e --accept-package-agreements --accept-source-agreements "OpenWhisperSystems.Signal"
+    winget install -e --accept-package-agreements --accept-source-agreements "SublimeHQ.SublimeText.4"
+    winget install -e --accept-package-agreements --accept-source-agreements "tailscale.tailscale"
+    winget install -e --accept-package-agreements --accept-source-agreements "VideoLAN.VLC"
+    winget install -e --accept-package-agreements --accept-source-agreements "WireGuard.WireGuard"
+    winget install -e --accept-package-agreements --accept-source-agreements "Zoom.Zoom"
 ## Device Specific
 ### Lenovo Laptop
 * `winget install Lenovo.UpdateRetriever`
