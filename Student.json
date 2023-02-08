@@ -62,6 +62,39 @@
 				},
 				{
 					"PackageIdentifier" : "SublimeHQ.SublimeText.4"
+				},
+				{
+					"PackageIdentifier" : "File-New-Project.EarTrumpet"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier": "Jabra.Direct"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "9WZDNCRFHWLH" 
+				},
+				{
+					"PackageIdentifier": "WireGuard.WireGuard"
+				},
+				{
+					"PackageIdentifier": "tailscale.tailscale"
+				},
+				{
+					"PackageIdentifier": "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier": "Microsoft.XMLNotepad"
+				},
+				{
+					"PackageIdentifier": "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier": "JGraph.Draw"
 				}
 			],
 			"SourceDetails" : 
